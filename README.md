@@ -22,6 +22,7 @@ Thus, the core objective of this analysis is to **validate whether the breakdown
 - **Reprocessed the data using the same method as the original project:**
   - Downloaded the same dataset from the Seoul Open Data Portal
   - Performed the same data cleaning, including **removal of duplicate breakdown reports** and formatting
+![graph1](https://github.com/user-attachments/assets/11feb584-23bb-4f79-b7d4-4ebfb60e12be)
 
 - **Result:** The recalculated breakdown rate matched the original project’s result → **No analysis error was found**
   
@@ -44,6 +45,7 @@ Thus, the core objective of this analysis is to **validate whether the breakdown
 ---
 
 ### 3) Breakdown Count vs. Usage Volume Analysis – Graph 1 (Dual Y-Axis)
+![graph2](https://github.com/user-attachments/assets/f2e5ef15-5a93-45d3-9dca-a5b0072a0e95)
 
 - Instead of using breakdown rates directly, this analysis **visualized raw breakdown and return counts on a single graph**
 - A **dual Y-axis (TWINX)** chart was used to separate return counts and breakdown counts for direct visual comparison
@@ -61,6 +63,8 @@ Thus, the core objective of this analysis is to **validate whether the breakdown
 - Allowed a direct comparison between **breakdown reports** and **return volumes** over time
 
 ### Interpretation of Normalized Graph:
+![graph3](https://github.com/user-attachments/assets/88da1877-a464-42b3-8517-6b6b6219a5ce)
+
 - Return counts (blue line) and breakdown reports (red dashed line) showed **similar patterns overall**
   - Generally, **higher usage correlates with more breakdowns**
   - Both values peaked in **May–June and October**
